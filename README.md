@@ -15,6 +15,7 @@ Controls: Start, stop, and reset the grid at any time.
 Maze Generation: Instantly generate a random maze.
 
 Statistics: Reports path length, visited nodes, and execution time after each search.
+![AI Maze Solver GUI in action](./images/Untitled.png)
 
 🧠 The Learned Heuristic (MLP)
 This project's most unique feature is the "Train Heuristic Model" button.
