@@ -1,4 +1,4 @@
-AI Maze Solver Agent
+<img width="1009" height="863" alt="image" src="https://github.com/user-attachments/assets/e3714304-984f-4469-a32b-c4b784bac27d" />AI Maze Solver Agent
 This project is an advanced pathfinding visualizer built with Python and Tkinter. It allows users to visualize a wide variety of search algorithms on a 2D grid, from standard searches like A\* and BFS to more advanced local search and evolutionary algorithms.
 
 The core "AI" feature of this agent is its ability to train a machine learning model (a neural network) to learn its own pathfinding heuristic. You can then compare the performance of this learned heuristic against traditional ones like Manhattan or Euclidean distance.
@@ -16,6 +16,7 @@ Maze Generation: Instantly generate a random maze.
 
 Statistics: Reports path length, visited nodes, and execution time after each search.
 ![AI Maze Solver GUI in action](./images/Untitled.png)
+![AI Maze Solver GUI in action](./images/image.png)
 
 🧠 The Learned Heuristic (MLP)
 This project's most unique feature is the "Train Heuristic Model" button.
